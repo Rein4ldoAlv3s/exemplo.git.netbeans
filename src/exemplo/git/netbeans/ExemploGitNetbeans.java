@@ -26,7 +26,7 @@ public class ExemploGitNetbeans {
         else{
             System.out.println("Eh impar"); 
         }
-        //adicionar ao programa se a variavel "num" eh multiplo de 3 ao mesmo tempo que eh par ou impar 
+        //Nice job :D
     }
     
 }
