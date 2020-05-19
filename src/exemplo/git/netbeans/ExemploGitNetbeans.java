@@ -11,7 +11,7 @@ public class ExemploGitNetbeans {
         //segunda alteracao pelo netbeans
         System.out.println("Hello World");
         
-        //numero par ou impar?
+        //numero par ou impar:
         int num=entrada.nextInt();
         if(num%2==0){
             System.out.println("Numero par");
