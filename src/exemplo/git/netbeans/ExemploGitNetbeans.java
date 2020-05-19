@@ -17,7 +17,8 @@ public class ExemploGitNetbeans {
             System.out.println("Numero par");
         }
         else{
-            System.out.println("Numero impar");   
+            System.out.println("Numero impar"); 
+            //fim
         }
     }
     
