@@ -3,7 +3,7 @@ package exemplo.git.netbeans;
 public class ExemploGitNetbeans {
 
     public static void main(String[] args) {
-        Scanne entrada = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in);
         System.out.println("Exemplo de um projeto qualquer com git e netbeans");
         //alterado da web
         //segunda alteracao pelo netbeans
