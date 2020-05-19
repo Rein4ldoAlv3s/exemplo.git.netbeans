@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 package exemplo.git.netbeans;
+
+import java.util.Scanner;
 
 public class ExemploGitNetbeans {
 
