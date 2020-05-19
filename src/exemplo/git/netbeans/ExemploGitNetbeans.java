@@ -12,12 +12,19 @@ public class ExemploGitNetbeans {
         System.out.println("Hello World");
         
         //numero par ou impar:
+        System.out.println("Informe um numero");
         int num=entrada.nextInt();
-        if(num%2==0){
-            System.out.println("Numero par");
+        if(num%3==0){
+            System.out.println("Multiplo de 3");
         }
         else{
-            System.out.println("Numero impar"); 
+            System.out.println("Nao eh multiplo de 3");
+        }
+        if(num%2==0){
+            System.out.println("Eh par (e multiplo de 2 tbm)");
+        }
+        else{
+            System.out.println("Eh impar"); 
         }
         //adicionar ao programa se a variavel "num" eh multiplo de 3 ao mesmo tempo que eh par ou impar 
     }
